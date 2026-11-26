@@ -2,7 +2,7 @@
 
 LLM은 학습하지 않은 정보를 모릅니다. 이 저장소는 LLM이 외부 문서를 검색해 근거 있는 답변을 하도록 만드는 RAG(Retrieval-Augmented Generation)를 원리부터 고도화 기법까지 실습하는 노트북 모음입니다.
 
-유튜브 강의: **RAG 마스터 클래스: 원리와 수학부터 최신 고도화 기법까지** 재생목록 (링크 추가 예정)
+유튜브 강의: [RAG 마스터 클래스: 원리와 수학부터 최신 고도화 기법까지](https://www.youtube.com/playlist?list=PLW2PVYDtwkCw)
 
 ## 구성
 
