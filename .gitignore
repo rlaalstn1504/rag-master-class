@@ -1,0 +1,15 @@
+/temp
+/.vscode
+/results
+.env
+.excalidraw
+*.zip
+*.pt
+*.pth
+*.model
+*.vocab
+*.pkl
+*.faiss
+__pycache__/
+.ipynb_checkpoints/
+faiss_index*/
